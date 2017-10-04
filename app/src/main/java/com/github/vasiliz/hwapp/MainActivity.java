@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //some comment
     }
 
+<<<<<<< HEAD
     @Override
     protected void onStart() {
         super.onStart();
@@ -24,4 +25,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onDestroy() {
         super.onDestroy();
     }
+=======
+>>>>>>> 11c820750fb2df2a7a5cc06e4d44c886ccb13765
 }
