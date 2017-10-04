@@ -13,4 +13,13 @@ public class MainActivity extends AppCompatActivity {
         //some comment
     }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
 }
