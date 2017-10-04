@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void forRebase() {
         //example
+        //two comment
     }
 
 }
