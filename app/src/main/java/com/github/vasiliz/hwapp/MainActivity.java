@@ -26,4 +26,8 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
     }
 
+    public void forRebase() {
+        //example
+    }
+
 }
