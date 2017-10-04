@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
-        //start cativity
+        //start activity
     }
 }
