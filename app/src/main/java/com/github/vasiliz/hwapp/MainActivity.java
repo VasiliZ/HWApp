@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
+
+        //add some comment
     }
 
     @Override
